@@ -367,7 +367,7 @@ Dù sao đi nữa, Subaru đã đến để nói về sự tò mò của mình, 
 "...Như chúng tôi đã nói trước đây, việc giải phóng Sanctuary nên là điều mà Lady Emilia tự mình hoàn thành. Đó là điều mà Young Ros mong muốn."  
 "Bà nói rằng đó là kế hoạch của Roswaal. Nghĩa là..."  
 Khi Subaru đột nhiên nhớ lại cuộc tranh luận nóng bỏng mà cậu đã chia sẻ với Roswaal lần trước, sự thiếu hiểu biết của cậu khiến cậu cau mày.  
-Đối phó với mối nguy hiểm của Witch Cult và giải phóng Sanctuary—Roswaal tuyên bố rằng cậu đã sắp xếp mọi thứ để Emilia được ghi nhận với thành công của cả hai. Subaru có thể đồng ý rằng kế hoạch của Roswaal mang lại những lợi thế độc đáo cho cuộc tranh cử ngôi vị nữ hoàng của Emilia. Tuy nhiên, cậu cảm thấy cách suy nghĩ đó quá vô tâm.  
+Đối phó với mối nguy hiểm của Giáo phái phù thủy và giải phóng Sanctuary—Roswaal tuyên bố rằng cậu đã sắp xếp mọi thứ để Emilia được ghi nhận với thành công của cả hai. Subaru có thể đồng ý rằng kế hoạch của Roswaal mang lại những lợi thế độc đáo cho cuộc tranh cử ngôi vị nữ hoàng của Emilia. Tuy nhiên, cậu cảm thấy cách suy nghĩ đó quá vô tâm.  
 "...Hai người có đồng ý với phương pháp của người đó không?"  
 "Này, đừng hiểu sai ý. Tôi cũng ghét tên khốn đó. Nhưng mọi thứ không đơn giản như vậy."  
 "Cậu trẻ Su, tôi hiểu cảm giác của cậu. Tôi cũng không thấy đây là một chủ đề dễ chịu. Nhưng với tư cách là đại diện của khu định cư, vị trí của tôi cũng đòi hỏi tôi phải suy nghĩ về những gì sẽ xảy ra sau khi rào chắn được dỡ bỏ."  
@@ -1498,15 +1498,15 @@ Một điều chắc chắn là Rem đang ở cánh đông của dinh thự. V�
 
 —Nếu ngay lúc này, cậu ưu tiên cứu Rem, liệu cậu có thể hy vọng rằng Beatrice sẽ tự mình giải quyết được vấn đề? Xét đến khả năng của Passage, đó chắc chắn là một kế hoạch tiềm năng khác.
 
-Trên thực tế, trong trận chiến cao điểm với Witch Cult vài ngày trước, Subaru đã không thể đưa Beatrice ra khỏi dinh thự; cô ấy đã ở lại, tin tưởng vào sức mạnh của Passage trong trận chiến quyết định.
+Trên thực tế, trong trận chiến cao điểm với Giáo phái phù thủy vài ngày trước, Subaru đã không thể đưa Beatrice ra khỏi dinh thự; cô ấy đã ở lại, tin tưởng vào sức mạnh của Passage trong trận chiến quyết định.
 
 Nếu điều kiện tương tự như lúc đó, khả năng Beatrice gặp nguy hiểm là—
 
 “Mình… ngu ngốc à? Không, mình thật sự ngu ngốc. Tình huống hiện tại hoàn toàn khác so với lần trước…!”
 
-—Mục tiêu của Witch Cult và mục tiêu của Elsa hoàn toàn khác nhau.
+—Mục tiêu của Giáo phái phù thủy và mục tiêu của Elsa hoàn toàn khác nhau.
 
-Cuối cùng, mục tiêu của Witch Cult—mục tiêu của Petelgeuse—là Emilia. Vì họ không có thông tin về những người trong dinh thự, việc để lại Beatrice ở đó là một lựa chọn khả thi vì cô không liên quan gì đến mục tiêu của họ.
+Cuối cùng, mục tiêu của Giáo phái phù thủy—mục tiêu của Petelgeuse—là Emilia. Vì họ không có thông tin về những người trong dinh thự, việc để lại Beatrice ở đó là một lựa chọn khả thi vì cô không liên quan gì đến mục tiêu của họ.
 
 Tuy nhiên, Elsa lại khác. Mục tiêu của tên đồ tể này rõ ràng là giết tất cả mọi người trong dinh thự. Cô ta đã nhắm vào Subaru, Frederica và Petra; tất nhiên, cô ta cũng sẽ cố giết Rem và Beatrice.
 
@@ -3439,7 +3439,7 @@ Petra, chỉ còn lại một cánh tay. Frederica, bị chém chết ở một 
 
 Nhiều hơn nữa, nhiều hơn nữa, những cảnh nhuộm đỏ cứ lặp đi lặp lại.
 
-Emilia, ngã gục trên sàn nhà trong hầm chứa chiến lợi phẩm. Ông lão Rom, cổ bị rạch đứt như thủy tinh. Felt, bị chém tàn nhẫn trong một cú đòn duy nhất. Rem, chết dần chết mòn. Người dân làng Earlham bị sát hại bởi Witch Cult. Những đứa trẻ bị nhồi nhét vào kho chứa. Petra, mắt bị móc ra. Ram, trang điểm bằng cái chết. Rem, toàn thân bị vấy bẩn. Những người dân làng bị thảm sát lần thứ hai. Ram, bị xiên khi cố bảo vệ họ. Những thành viên của lực lượng tiêu diệt, bị nghiền nát bởi thân hình khổng lồ của White Whale và bị sương mù xóa sạch. Những người thú bị xé tan bởi tay của Sloth. Những người dân làng và thành viên của lực lượng tiêu diệt bị nuốt chửng bởi vụ nổ chết chóc. Xác chết, xác chết, xác chết, bao quanh bởi cái chết, những hối tiếc chất đống chồng chất nhau cho đến nơi mà cậu có thể nhìn thấy.
+Emilia, ngã gục trên sàn nhà trong hầm chứa chiến lợi phẩm. Ông lão Rom, cổ bị rạch đứt như thủy tinh. Felt, bị chém tàn nhẫn trong một cú đòn duy nhất. Rem, chết dần chết mòn. Người dân làng Earlham bị sát hại bởi Giáo phái phù thủy. Những đứa trẻ bị nhồi nhét vào kho chứa. Petra, mắt bị móc ra. Ram, trang điểm bằng cái chết. Rem, toàn thân bị vấy bẩn. Những người dân làng bị thảm sát lần thứ hai. Ram, bị xiên khi cố bảo vệ họ. Những thành viên của lực lượng tiêu diệt, bị nghiền nát bởi thân hình khổng lồ của White Whale và bị sương mù xóa sạch. Những người thú bị xé tan bởi tay của lười biếng. Những người dân làng và thành viên của lực lượng tiêu diệt bị nuốt chửng bởi vụ nổ chết chóc. Xác chết, xác chết, xác chết, bao quanh bởi cái chết, những hối tiếc chất đống chồng chất nhau cho đến nơi mà cậu có thể nhìn thấy.
 
 “ ”
 
@@ -3824,7 +3824,7 @@ Tuy nhiên, ngay cả khi thời gian trôi qua, sự bối rối của cậu v�
 
 Giậm chân, Otto chỉ vào cả Subaru và chính mình. Nhưng hành động của anh ta khiến mắt Subaru mở to hơn. Phản ứng của Subaru khiến Otto nói, "Ôi trời ơi!" khi cậu ta giật tóc của mình, dường như để xua tan sự tê dại.
 
-"Chắc chắn rồi! Lợi ích chung của chúng ta trùng khớp khi tôi đến đây! Là để tôi có thể gặp Hầu tước, và thông qua công việc đó, hỗ trợ Lady Emilia. Và trên hết, ông Natsuki, chính ông đã cứu tôi khi tôi bị bắt bởi Witch Cult!"
+"Chắc chắn rồi! Lợi ích chung của chúng ta trùng khớp khi tôi đến đây! Là để tôi có thể gặp Hầu tước, và thông qua công việc đó, hỗ trợ Lady Emilia. Và trên hết, ông Natsuki, chính ông đã cứu tôi khi tôi bị bắt bởi Giáo phái phù thủy!"
 
 " "
 
@@ -3999,7 +3999,7 @@ Otto thở dài, nhưng Subaru không thể gật đầu.
 
 cậu hiểu rằng Emilia đang lo lắng. Khi không có Puck bên cạnh, Subaru là đồng minh duy nhất của cô ấy. Dù vậy, nếu cô ấy có thể vượt qua Thử Thách, có lẽ điều đó sẽ không đủ để khiến cô ấy dao động đến mức này.
 
-Đối với người dân làng Earlham, cậu đã giải quyết vụ bạo loạn của quái thú và vấn đề của Witch Cult. cậu không ngại nhận lòng biết ơn, nhưng đây là quá nhiều. Subaru đã để tất cả họ chết hết lần này đến lần khác. Đây là một sự đánh giá quá cao.
+Đối với người dân làng Earlham, cậu đã giải quyết vụ bạo loạn của quái thú và vấn đề của Giáo phái phù thủy. cậu không ngại nhận lòng biết ơn, nhưng đây là quá nhiều. Subaru đã để tất cả họ chết hết lần này đến lần khác. Đây là một sự đánh giá quá cao.
 
 Nhưng nếu một trong hai phần là đúng, điều đó có nghĩa là tình hình đang vô cùng nguy hiểm.
 
@@ -5640,7 +5640,7 @@ Tuy nhiên, trái ngược với niềm hy vọng đang nhen nhóm trong Subaru,
 
 "...Nếu cậu đối xử không đúng cách với họ, điều đó có thể rất nguy hiểm, an toàn, rất nguy hiểm, cực kỳ nguy hiểm, hoặc hoàn toàn nguy hiểm."
 
-"Việc 'an toàn' nằm trong danh sách đó thực sự khiến nó nghe còn tệ hơn... Vậy còn trường hợp của Gluttony thì sao?"
+"Việc 'an toàn' nằm trong danh sách đó thực sự khiến nó nghe còn tệ hơn... Vậy còn trường hợp của phàm ăn thì sao?"
 
 "Hoàn toàn nguy hiểm."
 
@@ -5957,7 +5957,7 @@ Ngay lập tức, có một luồng gió thổi qua. Đồng thời, trong một
 
 Subaru nghe tiếng nuốt nước bọt. Tự nhiên, lời nói của Echidna đã làm dấy lên nỗi sợ hãi.
 
-**“...Nếu Wrath (Cơn Thịnh Nộ) an toàn, thì Pride (Sự Kiêu Ngạo) ở mức độ nào?”**
+**“...Nếu phẩn nộ (Cơn Thịnh Nộ) an toàn, thì kiêu ngạo (Sự Kiêu Ngạo) ở mức độ nào?”**
 
 **“Typhon rất nguy hiểm, ta cho là vậy? Chỉ là không nguy hiểm bằng Camilla và Daphne.”**
 
@@ -5993,7 +5993,7 @@ Sau đó, với cơ thể Subaru cứng ngắc và căng thẳng, hình dáng c�
 
 Rút cằm lại, Subaru thốt ra những lời đó với giọng run rẩy.
 
-Nếu thực sự là Phù Thủy của Tham Lam (Gluttony) xuất hiện trước mắt cậu, thì hình ảnh của cô ấy thực sự khó mà bỏ qua.
+Nếu thực sự là Phù Thủy của Tham Lam (phàm ăn) xuất hiện trước mắt cậu, thì hình ảnh của cô ấy thực sự khó mà bỏ qua.
 
 **“—Subaruuu, có điều gì ngươi muốn hỏi Daphnee không?”**
 
